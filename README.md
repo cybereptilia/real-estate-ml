@@ -2,6 +2,10 @@
 
 This project is an end-to-end machine learning pipeline for predicting real estate prices based on property features. Built using Python, Scikit-Learn, and JupyterLab.
 
+It is based on techniques taught in **Chapter 2** of the book:
+*Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow*
+by Aurelien Geron (3rd Edition)
+
 ## Features
 
 - Data exploration & visualization
